@@ -2,6 +2,8 @@
 
 This repo is used for the `Coding as a foreign language` course to demonstrate `Test Driven Development` and `Pair Programming`
 
+To run the tests execute `./setup.py test` in this directory.
+
 ## License
 
 The MIT License (MIT)
