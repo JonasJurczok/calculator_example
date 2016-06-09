@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 import sys
@@ -41,7 +41,6 @@ setup(
     author_email='jonas.jurczok@zalando.de',
     url='https://github.com/JonasJurczok/calculator_example',
     license='MIT License',
-    # install_requires=['requests'],
     tests_require=['pytest-cov', 'pytest'],
     extras_require={
         'tests': ['flake8'],
