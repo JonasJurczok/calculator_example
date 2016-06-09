@@ -4,6 +4,28 @@ This repo is used for the `Coding as a foreign language` course to demonstrate `
 
 To run the tests execute `./setup.py test` in this directory.
 
+To change the tests you can use any text editor of your choice. For example `Notepad`, `Notepad++` or
+`PyCharm`.
+
+## On windows
+
+Download the project with the download link. Extract the zip archive to your Desktop.
+You should have a folder named `calculator_example-master` now.
+
+Open an explorer (windows + e) and navigate to your python installation. In the folder you
+will find a file named `winpy terminal`. Double click it. This should give you a black
+terminal window.
+
+Now in the terminal navigate to the folder where you put the calculator_example.
+To change a directory in the terminal you can type `cd <new folder>`. No navigate one folder
+up (to the parent folder) use `cd ..`.
+
+The left side of the terminal window shows you where you currently are.
+If you followed the instructions above the example should be in `C:\Users\<your short username>\Desktop\calculator_example-master`.
+
+After navigating to the folder type `python setup.py test` and hit enter to run the tests.
+From now on you can press `arrow up` to get the last command and then hit enter to run it again.
+
 ## License
 
 The MIT License (MIT)
